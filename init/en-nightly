@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# run cmd on nightly
+#rustup run nightly rustc --version
+
+rustup show active-toolchain
+rustup default nightly
+rustup show active-toolchain
+
+#stable-x86_64-pc-windows-msvc (default)
+#nightly-x86_64-pc-windows-msvc

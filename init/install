@@ -1,0 +1,4 @@
+#!/bin/bash
+rustup toolchain install nightly
+
+#rustup toolchain install nightly --allow-downgrade --profile minimal --component clippy

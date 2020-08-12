@@ -1,0 +1,11 @@
+#!/bin/bash
+# show available
+
+# show locally installed
+printf "\nshow available\n"
+#rustup target list
+rustup target list | grep 86
+
+# show installed
+printf "\nshow installed\n"
+rustup toolchain list
