@@ -1,5 +1,8 @@
+# Rust init
+
 Scripts for getting started with Rust
 
-- installing toolchains
-- updating toolchains
-- enabling a toolchain, listing 
+- installation
+- installing additional toolchains
+- updating existing toolchains
+- enabling a toolchain, listing active toolchain 
