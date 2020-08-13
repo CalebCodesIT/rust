@@ -12,6 +12,7 @@
 * Running in containers (Docker, buildah/podman, Flatcar)
 * PDF operations
 * Diesel ORM - https://diesel.rs
+* Rocket - rocket.rs
 
 ---
 ### Education:
